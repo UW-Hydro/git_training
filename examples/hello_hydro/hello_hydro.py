@@ -14,7 +14,7 @@ def main():
     letters.hello_world()
 
     # Say hello to Joe
-    letters.hello_joe('Today is Wednesday')
+    letters.hello_name('Today is Thursday')
 
     # Add your own hello function to letters.py
     # Then call that function from here...
