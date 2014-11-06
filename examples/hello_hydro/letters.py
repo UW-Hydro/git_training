@@ -17,5 +17,5 @@ def goodbye_world():
     print("Goodbye world!")
 
 
-def hello_joe(my_str):
-    print("Hello Joe:  {0}".format(my_str))
+def hello_name(my_str):
+    print("Hello SE-YEUN:  {0}".format(my_str))
